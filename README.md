@@ -107,7 +107,7 @@ This project is a real-time embedded health monitoring system built on the ESP32
 │   └── drift test 24h.csv
 │   └── screenshots/ Sensor plots, serial monitor screenshots
 ├── demo/
-│   └── demo video.mp4 Short demo video (< 3 min)
+│   └── demo video link in text
 
 ├── README.md # This file
 ```
