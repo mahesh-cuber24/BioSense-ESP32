@@ -172,5 +172,9 @@ Thank you for this remarkable opportunity.
 
 ## 👨‍💻 Contributors
 
-- Mahesh V — Hardware, Code Integration, OLED Design
-- [Add your team members here]
+- Team Members:
+•	Umaa Maheshvaran V, mahcubr24@gmail.com, Role: Lead
+•	Dinesh T, dineshtamil1812@gmail.com, Role: Developer
+•	Ajay U, ajay.uthayakumar04@gmail.com, Role: Tester
+• Contact Number (Primary): +91 8838271670
+
