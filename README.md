@@ -172,7 +172,8 @@ Thank you for this remarkable opportunity.
 
 ## 👨‍💻 Contributors
 
-- Team Members:
+Team Members:.
+
 Umaa Maheshvaran V, mahcubr24@gmail.com, Role: Lead.
 
 Dinesh T, dineshtamil1812@gmail.com, Role: Developer.
