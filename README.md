@@ -1,4 +1,4 @@
-![app code](https://github.com/user-attachments/assets/ec9ce177-d1fc-49fe-bd9b-e28aa08883b5)# 📋 ESP32-Based Multi-Sensor Health Monitoring System
+## 📋 ESP32-Based Multi-Sensor Health Monitoring System
 
 This project is a real-time embedded health monitoring system built on the ESP32 platform. It reads and displays vital physiological parameters using multiple biomedical sensors and uploads them to the cloud using ThingSpeak for remote monitoring and displaying real time values in a custom created App using MIT App Inventor.
 
