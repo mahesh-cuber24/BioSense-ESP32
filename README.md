@@ -173,8 +173,11 @@ Thank you for this remarkable opportunity.
 ## 👨‍💻 Contributors
 
 - Team Members:
-•	Umaa Maheshvaran V, mahcubr24@gmail.com, Role: Lead
-•	Dinesh T, dineshtamil1812@gmail.com, Role: Developer
-•	Ajay U, ajay.uthayakumar04@gmail.com, Role: Tester
-• Contact Number (Primary): +91 8838271670
+Umaa Maheshvaran V, mahcubr24@gmail.com, Role: Lead.
+
+Dinesh T, dineshtamil1812@gmail.com, Role: Developer.
+
+Ajay U, ajay.uthayakumar04@gmail.com, Role: Tester.
+
+Contact Number (Primary): +91 8838271670.
 
